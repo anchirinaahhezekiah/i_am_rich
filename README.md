@@ -13,7 +13,7 @@ To run this app locally, follow these steps:
 1. Clone the repository  
    ```sh
    git clone https://github.com/anchirinaahhezekiah/i_am_rich.git
-   cd iamrich-flutter]https://github.com/anchirinaahhezekiah/i_am_rich
+   cd i_am_rich
 
 2. Install dependencies
     ```sh
